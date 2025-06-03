@@ -1,4 +1,4 @@
 # paramita-demo
 This is my first Git Repository.
 <br>
-Author - Paramita Ghosh
+Author - Paramita Ghosh (MNNIT ALLAHABAD)
